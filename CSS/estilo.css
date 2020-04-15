@@ -1,0 +1,176 @@
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+img {
+	opacity: 0.5;
+	width: 800px;
+	height: 500px;
+	margin-left: 275px;
+	position: fixed;
+}
+
+body {
+	background: red;
+}
+
+td {
+	border-bottom: 1px solid black;
+}
+
+#master {
+	position: relative;
+}
+
+#lista {
+	position: relative;
+	width: 200px;
+	left: 200px;
+	top: 100px;
+}
+
+
+#tabela {
+	position: relative;
+	left: 450px;
+	border: 1px solid black;
+}
+
+
+#master2 {
+	position: relative;
+}
+
+#lista2 {
+	position: relative;
+	width: 200px;
+	left: 200px;
+	top: 100px;
+}
+
+
+#tabela2 {
+	width: 400px;
+	position: relative;
+	left: 450px;
+	border: 1px solid black;
+
+}
+
+#master3 {
+	position: relative;
+}
+
+#lista3 {
+	position: relative;
+	width: 200px;
+	left: 200px;
+	top: 100px;
+}
+
+
+
+#tabela3 {
+	width: 400px;
+	position: relative;
+	left: 450px;
+	top: 20px;
+	border: 1px solid black;
+}
+
+#master4 {
+	position: relative;
+}
+
+#lista4 {
+	position: relative;
+	width: 200px;
+	left: 200px;
+	top: 100px;
+}
+
+
+#tabela4 {
+	width: 400px;
+	position: relative;
+	left: 450px;
+	border: 1px solid black;
+}
+
+#master5 {
+	position: relative;
+}
+
+#lista5 {
+	position: relative;
+	width: 200px;
+	left: 200px;
+	top: 100px;
+}
+
+#tabela5 {
+	width: 400px;
+	position: relative;
+	left: 450px;
+	border: 1px solid black;
+}
+
+#master6 {
+	position: relative;
+}
+
+#lista6 {
+	position: relative;
+	width: 200px;
+	left: 200px;
+	top: 100px;
+}
+
+#tabela6 {
+	width: 400px;
+	position: relative;
+	left: 450px;
+	border: 1px solid black;
+}
+
+#master7 {
+	position: relative;
+}
+
+#lista7 {
+	position: relative;
+	width: 200px;
+	left: 200px;
+	top: 100px;
+}
+
+#tabela7 {
+	width: 400px;
+	position: relative;
+	left: 450px;
+	border: 1px solid black;
+}
+
+#master8 {
+	position: relative;
+}
+
+#lista8 {
+	position: relative;
+	width: 200px;
+	left: 200px;
+	top: 100px;
+}
+
+#tabela8 {
+	width: 400px;
+	position: relative;
+	left: 450px;
+	border: 1px solid black;
+}
+
+
